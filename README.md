@@ -1,17 +1,17 @@
-# Pencil ✏️
-Pencil is word processor made with Python similar to Word
+# Typewriter 🖨️
+Typewriter is word processor made with Python similar to Word
 
 ## How to use it
 
-- download [**pencil.py**](https://github.com/ssantoshp/Pencil)
-- go to the direction of pencil.py with your command prompt
-- type ```python pencil.py``` or you can also run the pencil.py file
+- download [**typewriter.py**](https://github.com/ssantoshp/Pencil)
+- go to the direction of typewriter.py with your command prompt
+- type ```python typewriter.py``` or you can also run the typewriter.py file
 
 ## What does it look like ✨
 
 ![](pencil.gif)
 
-## Functionalities 🖨️
+## Functionalities ✏️
 
 - Opening and saving a text file
 - Bold
