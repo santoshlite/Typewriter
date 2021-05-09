@@ -9,7 +9,9 @@ Typewriter is word processor made with Python similar to Word
 
 ## What does it look like ✨
 
-![](pencil.gif)
+<p align="center">
+  ![](pencil.gif)
+ </p>
 
 ## Functionalities ✏️
 
